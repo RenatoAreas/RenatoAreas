@@ -6,6 +6,10 @@
   <a href="https://www.linkedin.com/in/renatodossantosareas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=RenatoAreas&show_icons=true&theme=graywhite" /></a>
+</p> 
+
 <!--
 **RenatoAreas/RenatoAreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
