@@ -3,9 +3,9 @@
 <div>
 
 - 📖 Formado em Analise e desenvolvimento de sistemas pela Universidade Candido Mender RJ - UCAM
-- 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
-- ❤️ Adoro aprender coisas novas
-- 🍺 adoro uma cerveja
+- 🤝 Gosto de trabalhar em equipe e ajudar a comunidade dev a crescer
+- ❤️ Apaixonado em aprender coisas novas
+- 🍺 Louco por uma cerveja gelada
 
 
 <a href = "mailto: rsareas93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
