@@ -2,7 +2,7 @@
 ### Seja bem vindo ao meu GitHub 🏝️
 <div>
 
-- 📖 Formado em Analise e desenvolvimento de sistemas pela Universidade Candido Mender RJ - UCAM
+- 📖 Formado em Análise e desenvolvimento de sistemas pela Universidade Candido Mender RJ - UCAM
 - 🤝 Gosto de trabalhar em equipe e ajudar a comunidade dev a crescer
 - ❤️ Apaixonado em aprender coisas novas
 - 🍺 Louco por uma cerveja gelada
